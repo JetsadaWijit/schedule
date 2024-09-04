@@ -38,6 +38,12 @@ h2 {
     color: #007bff;
 }
 
+.time {
+    font-style: italic;
+    margin: 0;
+    color: #666;
+}
+
 .room,
 .number {
     margin: 0;
