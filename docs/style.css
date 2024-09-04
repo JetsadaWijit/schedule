@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+.schedule {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+.day {
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin-top: 0;
+    color: #333;
+}
+
+.class {
+    background-color: #f0f0f0;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-left: 5px solid #007bff;
+    border-radius: 5px;
+}
+
+.course {
+    font-weight: bold;
+    font-size: 16px;
+    margin: 0;
+    color: #007bff;
+}
+
+.room,
+.number {
+    margin: 0;
+    color: #555;
+}
