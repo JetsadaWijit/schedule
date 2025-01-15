@@ -1,0 +1,46 @@
+[
+    {
+        "day": "Tuesday",
+        "classes": [
+            {
+                "course": "CS460 / 327G",
+                "time": "8:40 - 11:00",
+                "room": "Room *",
+                "number": 0
+            }
+        ]
+    },
+    {
+        "day": "Wednesday",
+        "classes": [
+            {
+                "course": "CS320 / 227B",
+                "time": "14:30 - 16:50",
+                "room": "Room *",
+                "number": 0
+            }
+        ]
+    },
+    {
+        "day": "Thursday",
+        "classes": [
+            {
+                "course": "CS498 / 427A",
+                "time": "14:30 - 16:50",
+                "room": "Room *",
+                "number": 0
+            }
+        ]
+    },
+    {
+        "day": "Saturday",
+        "classes": [
+            {
+                "course": "IT359 / 327C",
+                "time": "8:40 - 11:00",
+                "room": "Room *",
+                "number": 0
+            }
+        ]
+    }
+]
