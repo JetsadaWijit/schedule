@@ -5,7 +5,7 @@
             {
                 "course": "CS460 / 327G",
                 "time": "8:40 - 11:00",
-                "room": "Room *",
+                "room": "*",
                 "number": 0
             }
         ]
@@ -16,7 +16,7 @@
             {
                 "course": "CS320 / 227B",
                 "time": "14:30 - 16:50",
-                "room": "Room *",
+                "room": "*",
                 "number": 0
             }
         ]
@@ -27,7 +27,7 @@
             {
                 "course": "CS498 / 427A",
                 "time": "14:30 - 16:50",
-                "room": "Room *",
+                "room": "*",
                 "number": 0
             }
         ]
@@ -38,7 +38,7 @@
             {
                 "course": "IT359 / 327C",
                 "time": "8:40 - 11:00",
-                "room": "Room *",
+                "room": "*",
                 "number": 0
             }
         ]
