@@ -1,0 +1,16 @@
+{
+    "name": "static",
+    "customizations": {
+        "vscode": {
+            "settings": {
+                "workbench.colorTheme": "Default Dark Modern"
+            },
+            "extensions": [
+                "ms-azuretools.vscode-docker",
+                "alefragnani.bookmarks",
+                "eamodio.gitlens",
+                "ritwickdey.LiveServer"
+            ]
+        }
+    }
+}
